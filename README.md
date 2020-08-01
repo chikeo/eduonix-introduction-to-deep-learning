@@ -1,2 +1,2 @@
 # eduonix-introduction-to-deep-learning
-Introduction to Deep Learning Webinar Organised by Eduonix and Delivered by Dr. Darshan Ingle
+Introduction to Deep Learning Webinar organised by Eduonix and delivered by Dr. Darshan Ingle
